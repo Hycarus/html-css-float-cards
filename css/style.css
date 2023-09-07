@@ -20,7 +20,29 @@
     clear: both;
 }
 
-.container{
+.debug{
+    border: 2px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: var(--title-color);
+    padding: 40px;
+    font-size: 50px;
+}
+
+body{
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.ft{
+    float: left;
+}
+
+section{
+    width: calc(100% / 3);
 }
