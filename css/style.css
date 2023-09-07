@@ -38,7 +38,9 @@ h1{
 body{
     max-width: 1500px;
     margin: 0 auto;
-    font-size: 18px;
+    font-size: 17px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
 }
 
 .ft{
