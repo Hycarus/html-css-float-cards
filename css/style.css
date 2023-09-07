@@ -1,5 +1,15 @@
+/* reset  */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/* palette colori  */
+:root{
+    --title-color: #e53170;
+    --text-color: #ffffff;
+    --email-color: #63bddf;
+    --section-bg-color: #000000;
+}
+
